@@ -6,7 +6,7 @@
 // @version      1.1
 // @description  12.06.2024, 17:09:30
 // @grant        none
-// @icon         http://89.106.206.41/homous/TAPSWAPCOIN.png
+// @icon         http://89.106.206.41/homous/TAPSWAPICON.png
 // @downloadURL  https://github.com/S3C237/TapSwap/raw/main/tapswap-autoclicker.user.js
 // @updateURL    https://github.com/S3C237/TapSwap/raw/main/tapswap-autoclicker.user.js
 // @homepage     https://github.com/S3C237/TapSwap
