@@ -6,7 +6,7 @@
 // @author       Homous
 // @match        *://*.tapswap.*/*
 // @grant        none
-// @icon         http://89.106.206.41/homous/TAPSWAP.png
+// @icon         http://89.106.206.41/homous/TAPSWAPCOIN.png
 // @downloadURL  https://github.com/S3C237/TapSwap/raw/main/tapswap-web.user.js
 // @updateURL    https://github.com/S3C237/TapSwap/raw/main/tapswap-web.user.js
 // @homepage     https://github.com/S3C237/TapSwap
